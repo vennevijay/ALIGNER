@@ -1,0 +1,1 @@
+ typedef enum bit {CFS_MD_OKAY = 0, CFS_MD_ERR = 1} cfs_md_response;
